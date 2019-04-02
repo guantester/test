@@ -1,1 +1,2 @@
-this is file in the master.
+this is file in the master
+this is merge demo.
