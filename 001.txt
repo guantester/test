@@ -1,2 +1,4 @@
 this is file in the master
 this is merge demo.
+
+this is mergedemo merge message.
